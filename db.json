@@ -3,5 +3,9 @@
     { "id": 1, "name": "Name 1", "email" :"name1@sample.com", "address":"abc","phone" : "(1)909888788" },
     { "id": 2, "name": "Name 2", "email" :"name2@sample.com", "address":"xyz","phone" : "(1)7876888788" },
     { "id": 3, "name": "Name 3", "email" :"name3@sample.com", "address":"bfg","phone" : "(1)99796788788" }
-  ]
+  ],
+  "user":{
+    "name":"saju",
+    "password":"temp"
+  }
 }
